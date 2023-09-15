@@ -1,5 +1,5 @@
 settings = {
     "prefix": ">",
-    "TOKEN": "MTE1MTQ5NTg4NjM4MDIwODEyOA.GPtToD.frlmQbhhULfyPYYiJiriw7ucwZU81bpF682Xg0"
+    "TOKEN": "MUST ADD THIS TOKEN FOR WAKE/ONLINE AS THE BOT!!!"
 
 }
